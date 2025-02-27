@@ -1,0 +1,1 @@
+Criei esse chatbot usando Openai usando jutantamente Flask e git para armazenar os dados.
